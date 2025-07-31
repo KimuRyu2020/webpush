@@ -1,4 +1,4 @@
-// Push通知を受け取ると呼ばれるあ
+// Push通知を受け取ると呼ばれる
 self.addEventListener('push', function (event) {
     // メッセージを表示する
     var data = {};
